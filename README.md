@@ -1,8 +1,5 @@
 # DEFT2013 Tâche 2 : YNWA
 
-
-| **Baye Lahad Mbacke M1 ATAL** |
-
 ## Description de la tâche
     La tâche consiste à classer automatiquement les recettes de cuisine en trois catégories : Plat principal, Entrée ou Dessert, en se basant sur le titre et les instructions de la recette.
 ## Exemple de document 1 :
