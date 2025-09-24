@@ -31,7 +31,7 @@
 
 **Nombre de documents de train/dev/test :**
 
-|   Dataset     | nombre :|
+|   Dataset     | nombre |
 |---------------|--------|
 | Entraînement  |  9978  |
 | dev           |  2495  |
