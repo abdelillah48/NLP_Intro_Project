@@ -136,15 +136,3 @@ On peut également remarquer que le ``Nettoyage des données `` donne les meille
 
 Parmis les metodes qu'on a proposer , on voit que la classe ``desert`` est tres bien  predite par les 3 methodes ceci peut etre explique le fait que le ``desert`` a des recettes specifique, mais les methodes ont du mal a predire les classes ``plat principal`` et ``entree``, on peut dire que les erreurs de classification sont principalement dues à la confusion entre les ``entree`` et les ``plat principal``. Cela peut s'expliquer par le fait que les ``entree`` et les ``plat principal`` ont souvent des recettes ou  des titres similaires, ce qui rend la tâche de classification plus difficile ,ou certains plats peuvent se servir indifféremment en ``entree`` ou en  ``plat principal``
 
-### References
-- slides du cours et les codes des TP
-- https://deft.lisn.upsaclay.fr/actes/2013/pdf/deft13_submission_0.pdf
-- https://www.nltk.org/
-- https://spacy.io/models/fr
-- https://tedboy.github.io/nlps/generated/generated/gensim.utils.simple_preprocess.html 
-- https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
-- https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
-- https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
-- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
-- https://scikit-learn.org/stable/modules/generated/sklearn.dummy.DummyClassifier.html
-- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
